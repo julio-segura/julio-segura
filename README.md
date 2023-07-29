@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julio-segura
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Machine Learning with Python 
 - 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me jsmillon@proton.me
 
