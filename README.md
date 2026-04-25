@@ -1,8 +1,8 @@
-Hi there 👋, my name is Julio
+<!--- Hi there 👋, my name is Julio
 
 - 👀 I’m interested in data science, data analytics, ML and AI.
 - 🌱 I’m currently honing my Machine Learning skills
-- 💞️ I’m looking to collaborate on anything data science related
+- 💞️ I’m looking to collaborate on anything data science related --->
   
 
 <!---
